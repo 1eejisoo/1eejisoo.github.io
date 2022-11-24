@@ -1,12 +1,32 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Tags"
+    url: /tags/
+
+sidebar-category:
+  - title: "💻 PROGRAMMING"
+    children:
+      - title: "JAVA"
+        url: "/java"
+        category: "java"
+
+  - title: "🌐 DEVOPS"
+    children:
+      - title: "AWS"
+        url:  "/aws"
+        category: "aws"
+
+  - title: "💡 CODING TEST"
+    children:
+      - title: "Baekjoon"
+        url: "/baekjoon"
+        category: "baekjoon"
+
+  - title: 💬 THINKING
+    children:
+      - title: "회고"
+        url: "/review"
+        category: "review"
+      - title: "etc"
+        url: "/etc"
+        category: "etc"
