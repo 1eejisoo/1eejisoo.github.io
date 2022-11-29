@@ -142,9 +142,11 @@ body {
   :not(pre) > code {
     padding-top: 0.1rem;
     padding-bottom: 0.1rem;
-    font-size: 0.8em;
+    font-size: 0.9em;   // default: 0.8em
     background: $code-background-color;
     border-radius: $border-radius;
+    color: #e56763;   // custom
+    margin-right: 0.2rem;   // custom
 
     &::before,
     &::after {

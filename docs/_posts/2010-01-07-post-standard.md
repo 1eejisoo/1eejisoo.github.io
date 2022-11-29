@@ -2,7 +2,7 @@
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - java
 tags:
   - Post Formats
   - readability

@@ -1,11 +1,11 @@
 ---
+title: "Posts by Category"
+layout: categories
 permalink: /categories/
-title: "Category"
-toc: true
-toc_sticky: true
-toc_label: "Category"
+author_profile: true
 ---
 
 
-[icon](/assets/logo.ico/apple-icon-120x120.png)
-sssss
+
+
+

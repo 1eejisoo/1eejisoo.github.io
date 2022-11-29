@@ -289,10 +289,10 @@ defaults:
       read_time: false
       show_date: true
       comments: true
-      share: true
+      # share: true
       related: true
       sidebar:                  
-        nav: "sidebar-category" 
+        nav: "categories" 
 
   # _pages
   - scope:
@@ -302,4 +302,4 @@ defaults:
       layout: single
       author_profile: true
       sidebar:                  
-        nav: "sidebar-category" 
+        nav: "categories" 

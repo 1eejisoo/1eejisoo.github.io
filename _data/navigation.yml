@@ -2,8 +2,7 @@
 main:
   - title: "Tags"
     url: /tags/
-
-sidebar-category:
+categories:
   - title: "💻 PROGRAMMING"
     children:
       - title: "JAVA"
