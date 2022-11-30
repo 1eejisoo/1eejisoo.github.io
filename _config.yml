@@ -303,3 +303,11 @@ defaults:
       author_profile: true
       sidebar:                  
         nav: "categories" 
+        
+# line number
+markdown: kramdown
+kramdown:
+    highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
