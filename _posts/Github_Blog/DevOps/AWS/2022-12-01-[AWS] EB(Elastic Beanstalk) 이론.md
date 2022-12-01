@@ -4,6 +4,7 @@ categories:
   - aws
 tags:
   - AWS
+  - EB
 toc_label: "목차"
 toc: true
 toc_sticky: true
@@ -22,8 +23,9 @@ date: 2022-12-01
 # What?
 
 - 애플리케이션을 쉽게 배포할 수 있고, 운영 및 관리를 지원하는 AWS 서비스
-- 프로비저닝(provisioning)의 결정체이다. 
-  - 프로비저닝 : 어떠한 서비스를 위해 필요한 자원들을 준비하는 것
+- **프로비저닝(provisioning)의 결정체**이다. 
+  - <u><b>프로비저닝이란?</b> 어떠한 서비스를 위해 필요한 자원들을 준비하는 것을 말한다.</u>
+  
 - application을 저장/실행하는데 필요한 자원에 대한 비용만 지불하면 된다.
 - **Easy-to-use service for deploying and scaling web applications and services**
   - 웹 애플리케이션이나 서비스의 배포나 규모 확장/축소에 있어 용이하게 해주는 서비스
