@@ -11,6 +11,10 @@ toc_sticky: true
 date: 2022-12-01
 ---
 
+<details><summary><b>reference</b></summary>
+학교 수업을 듣고 정리한 내용입니다.
+</details>
+<br>
 
 
 <img width="668" alt="스크린샷 2022-12-01 오후 9 24 59" src="https://user-images.githubusercontent.com/93996283/205056408-6bff04d6-0e81-4fb7-99f7-0f010a2e6ce2.png">

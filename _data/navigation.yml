@@ -14,6 +14,12 @@ categories:
       - title: "AWS"
         url:  "/aws"
         category: "aws"
+      - title: "Azure"
+        url: "azure"
+        category: "azure"
+      - title: "GCP"
+        url: "gcp"
+        category: "gcp"
 
   - title: "💡 CODING TEST"
     children:

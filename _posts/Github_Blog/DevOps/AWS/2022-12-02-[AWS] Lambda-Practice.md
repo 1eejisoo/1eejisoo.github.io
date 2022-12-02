@@ -12,6 +12,11 @@ toc_sticky: true
 date: 2022-12-02 02:00:00
 ---
 
+<details><summary><b>reference</b></summary>
+학교 수업을 듣고 정리한 내용입니다.
+</details>
+<br>
+
 # 1. 기본 함수 사용
 
 ## 1-1. Lambda 콘솔로 이동

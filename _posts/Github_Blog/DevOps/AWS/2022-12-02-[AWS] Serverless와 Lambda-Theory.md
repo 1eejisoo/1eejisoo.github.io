@@ -12,6 +12,11 @@ toc_sticky: true
 date: 2022-12-02 01:00:00
 ---
 
+<details><summary><b>reference</b></summary>
+학교 수업을 듣고 정리한 내용입니다.
+</details>
+<br>
+
 # Serverless란?
 
 - **사용량에 따라 백엔드 서비스를 제공하는 방법**
