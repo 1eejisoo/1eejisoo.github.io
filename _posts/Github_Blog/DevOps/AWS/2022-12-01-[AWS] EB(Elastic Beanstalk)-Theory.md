@@ -1,5 +1,5 @@
 ---
-title: "[AWS] EB(Elastic Beanstalk) 이론"
+title: "[AWS] EB(Elastic Beanstalk) - Theory"
 categories:
   - aws
 tags:
@@ -29,7 +29,7 @@ date: 2022-12-01
 - application을 저장/실행하는데 필요한 자원에 대한 비용만 지불하면 된다.
 - **Easy-to-use service for deploying and scaling web applications and services**
   - 웹 애플리케이션이나 서비스의 배포나 규모 확장/축소에 있어 용이하게 해주는 서비스
-- 사용자가 Upload만 하면, EB가 capacity provisioning, loac balancing, auto scaling, health monitoring 등의 모든 배포를 자동으로 관리해준다.
+- 사용자가 Upload만 하면, EB가 capacity provisioning, load balancing, auto scaling, health monitoring 등의 모든 배포를 자동으로 관리해준다.
 
 <br>
 

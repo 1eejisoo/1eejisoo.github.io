@@ -1,5 +1,5 @@
 ---
-title: "[AWS] Serverless와 Lambda 이론"
+title: "[AWS] Serverless와 Lambda - Theory"
 categories:
   - aws
 tags:
@@ -9,7 +9,7 @@ tags:
 toc_label: "목차"
 toc: true
 toc_sticky: true
-date: 2022-12-02
+date: 2022-12-02 01:00:00
 ---
 
 # Serverless란?
