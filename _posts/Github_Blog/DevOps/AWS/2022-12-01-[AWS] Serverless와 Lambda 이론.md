@@ -9,7 +9,7 @@ tags:
 toc_label: "목차"
 toc: true
 toc_sticky: true
-date: 2022-12-02
+date: 2022-12-01
 ---
 
 # Serverless란?
