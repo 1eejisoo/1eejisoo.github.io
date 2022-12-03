@@ -71,7 +71,9 @@ date: 2022-12-02 02:00:00
 
 ## **1-6. 리소스 삭제**
 
-> **[Lambda] - [함수] 삭제**<img width="939" alt="스크린샷 2022-12-02 오후 4 40 05" src="https://user-images.githubusercontent.com/93996283/205244052-bc11f081-ca64-4759-9b28-0b6782c20bab.png">
+> **[Lambda] - [함수] 삭제**
+
+<img width="939" alt="스크린샷 2022-12-02 오후 4 40 05" src="https://user-images.githubusercontent.com/93996283/205244052-bc11f081-ca64-4759-9b28-0b6782c20bab.png">
 
 > **[CloudWatch] - [로그 그룹] 삭제**
 
