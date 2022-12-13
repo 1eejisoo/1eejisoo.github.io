@@ -8,6 +8,12 @@ categories:
       - title: "JAVA"
         url: "/java"
         category: "java"
+      - title: "Spring"
+        url: "/spring"
+        category: "spring"
+      - title: "알고리즘"
+        url: "/algorithm"
+        category: "algorithm"
 
   - title: "🌐 DEVOPS"
     children:
@@ -15,10 +21,10 @@ categories:
         url:  "/aws"
         category: "aws"
       - title: "Azure"
-        url: "azure"
+        url: "/azure"
         category: "azure"
       - title: "GCP"
-        url: "gcp"
+        url: "/gcp"
         category: "gcp"
 
   - title: "💡 CODING TEST"
