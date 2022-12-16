@@ -1,8 +1,8 @@
 ---
-title: "백준"
+title: "프로그래머스"
 layout: archive
-permalink: /baekjoon
+permalink: /programmers
 ---
 
-{% assign posts = site.categories.baekjoon %}
+{% assign posts = site.categories.programmers %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -29,7 +29,10 @@ categories:
 
   - title: "💡 CODING TEST"
     children:
-      - title: "Baekjoon"
+      - title: "프로그래머스"
+        url: "/programmers"
+        category: "programmers"
+      - title: "백준"
         url: "/baekjoon"
         category: "baekjoon"
 
