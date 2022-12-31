@@ -15,7 +15,7 @@
   padding: 1em;
   color: $text-color;
   font-family: $global-font-family;
-  font-size: $type-size-6 !important;
+  font-size: $type-size-6;  // default: //font-size: $type-size-6 !important;
   text-indent: initial; /* override*/
   background-color: mix($background-color, $notice-color, $notice-background-mix);
   border-radius: $border-radius;
@@ -30,7 +30,7 @@
   @at-root .page__content #{&} h4 {
     /* using at-root to override .page-content h4 font size*/
     margin-bottom: 0;
-    font-size: 1em;
+    font-size: 1em;   // default: 1em
   }
 
   p {
