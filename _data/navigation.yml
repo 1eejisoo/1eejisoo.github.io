@@ -35,6 +35,9 @@ categories:
       - title: "백준"
         url: "/baekjoon"
         category: "baekjoon"
+      - title: "기타"
+        url: "/other"
+        category: "other"
 
   - title: 💬 THINKING
     children:
