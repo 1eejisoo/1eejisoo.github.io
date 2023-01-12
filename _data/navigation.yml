@@ -11,11 +11,14 @@ categories:
       - title: "Spring"
         url: "/spring"
         category: "spring"
+      - title: "자료구조"
+        url: "/data_structure"
+        category: "data_structure"
       - title: "알고리즘"
         url: "/algorithm"
         category: "algorithm"
 
-  - title: "🌐 DEVOPS"
+  - title: "🌐 Infra"
     children:
       - title: "AWS"
         url:  "/aws"
